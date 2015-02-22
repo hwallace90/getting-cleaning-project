@@ -1,5 +1,9 @@
 ##CodeBook for tidy_sumry
 
+This dataset summarizes all the mean and standard deviation variables for the Samsung data. It will have one record for each subject (30) and activity (6) combination, for a total of 180 rows. Every measurement has been averaged over that particular subject and activity combination in my tidy_data dataframe. The codebook for the tidy_data dataframe would be extremely similar, except instead of averages, all the measurements would be single instances. Please see the documentation accompanying the raw data for a more thorough explainantion of the features variables listed below.
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 "subject"
     
     The number of the volunteer the data comes from
