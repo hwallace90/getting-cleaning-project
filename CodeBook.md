@@ -31,9 +31,11 @@ CodeBook for tidy_sumry
         train
 
 "tBodyAcc.mean.X"
+
     The average of this variable for the particular subject and activity. Normalized from -1 to 1
     
 "tBodyAcc.mean.Y"
+
     The average of this variable for the particular subject and activity. Normalized from -1 to 1
     
 "tBodyAcc.mean.Z"
