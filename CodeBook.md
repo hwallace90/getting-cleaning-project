@@ -1,10 +1,3 @@
----
-title: "CodeBook.md"
-author: "Harrison Wallace"
-date: "Sunday, February 22, 2015"
-output: html_document
----
-
 CodeBook for tidy_sumry
 
 "subject"
