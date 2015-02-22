@@ -10,6 +10,7 @@ CodeBook for tidy_sumry
 "subject"
     The number of the volunteer the data comes from
         1-30
+        
 "actName"
     The name of the activity performed by the subject
         WALKING
@@ -20,6 +21,7 @@ CodeBook for tidy_sumry
         LAYING
 
 "test.train"
+
     Whether the subject was part of the test or training data
         test
         train
