@@ -14,7 +14,9 @@ CodeBook for tidy_sumry
         1-30
         
 "actName"
+
     The name of the activity performed by the subject
+    
         WALKING
         WALKING_UPSTAIRS
         WALKING_DOWNSTAIRS
