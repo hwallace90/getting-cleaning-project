@@ -8,7 +8,9 @@ output: html_document
 CodeBook for tidy_sumry
 
 "subject"
+    
     The number of the volunteer the data comes from
+       
         1-30
         
 "actName"
