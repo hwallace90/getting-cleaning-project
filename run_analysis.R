@@ -82,4 +82,6 @@ tidy_sumry <- aggregate(.~subject+actName+test.train, data = tidy_data, mean)
 tidy_sumry <- tidy_sumry[order(tidy_sumry$subject, tidy_sumry$actName),]
 row.names(tidy_sumry) <- 1:nrow(tidy_sumry)
 
+##Write tidy_sumry as a text file
+write.table(tidy_sumry, file = "tidy_summary.txt", row.names = FALSE)
 
